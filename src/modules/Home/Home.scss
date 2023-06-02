@@ -1,0 +1,6 @@
+@import "~@blueprintjs/core/lib/scss/variables";
+
+.home-container {
+  height: calc(100vh - #{$pt-navbar-height});
+  width: 100%;
+}
